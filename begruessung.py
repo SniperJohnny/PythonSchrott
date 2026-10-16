@@ -27,4 +27,5 @@ print(how_is_the_place_variable)
 age = is_age_a_number("How old are you?")
 age += 1
 print("Happy Birthday to your " + age + ". Birthday. I wish you the all the Happiness you could desire.")
-print("Sorry but you ran out of Tokens. Come back tomorrow!")
+print("Sorry but you ran out of Tokens. \nCome back tomorrow!")
+
